@@ -1,0 +1,8 @@
+flask
+playwright
+httpx
+pandas
+numpy
+openai>=1.0.0
+python-dotenv
+beautifulsoup4
